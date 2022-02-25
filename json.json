@@ -1,0 +1,23 @@
+[
+   {
+      "id":1,
+      "titulo":"Refeições proteicas para fazer antes de dormir",
+      "capa":"https://blog.onespa.com.br/wp-content/uploads/2017/11/proteina-acucar-combinacao.jpg",
+      "subtitulo":"O que acontece com os nossos músculos quando estamos dormindo? Muitas pessoas pensam que o ganho de massa ocorre dentro da academia, quando na verdade é enquanto você dorme, por isso a importância de um sono regulado...",
+      "categoria":"dicas"
+   },
+   {
+      "id":2,
+      "titulo":"Refeições proteicas para fazer antes de dormir",
+      "capa":"https://blog.onespa.com.br/wp-content/uploads/2017/11/proteina-acucar-combinacao.jpg",
+      "subtitulo":"O que acontece com os nossos músculos quando estamos dormindo? Muitas pessoas pensam que o ganho de massa ocorre dentro da academia, quando na verdade é enquanto você dorme, por isso a importância de um sono regulado...",
+      "categoria":"dicas"
+   },
+   {
+      "id":3,
+      "titulo":"Refeições proteicas para fazer antes de dormir",
+      "capa":"https://frangocombatatadoce.rodrigoebeta.com/wp-content/uploads/2015/06/dieta-da-beta-junho-08.jpg",
+      "subtitulo":"O que acontece com os nossos músculos quando estamos dormindo? Muitas pessoas pensam que o ganho de massa ocorre dentro da academia, quando na verdade é enquanto você dorme, por isso a importância de um sono regulado...",
+      "categoria":"dicas"
+   }
+]
